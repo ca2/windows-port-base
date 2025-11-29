@@ -10,12 +10,6 @@
 [submodule "idn"]
 	path = idn
 	url = ../../cpp-port/idn
-[submodule "libarchive"]
-	path = libarchive
-	url = ../../cpp-port/libarchive
-[submodule "libmpg123"]
-	path = libmpg123
-	url = ../../cpp-port/libmpg123
 [submodule "pcre"]
 	path = pcre
 	url = ../../cpp-port/pcre
