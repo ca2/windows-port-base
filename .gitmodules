@@ -52,10 +52,6 @@
 	path = unac
 	url = ../../cpp-port/unac
 	branch = main
-[submodule "glm"]
-	path = glm
-	url = ../../g-truc/glm
-	branch = master
 [submodule "tinyobjloader"]
 	path = tinyobjloader
 	url = ../../cpp-port/tiny-tinyobjloader
